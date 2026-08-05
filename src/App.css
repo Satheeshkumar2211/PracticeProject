@@ -1,0 +1,10 @@
+.mantine-datatable-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 10px;
+}
+
+.mantine-datatable-empty-state {
+    display: none;
+}
